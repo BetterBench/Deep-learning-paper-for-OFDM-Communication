@@ -12,6 +12,28 @@
 + [【Trimming the Fat from OFDM: Pilot- and CP-less Communication with End-to-end Learning】](https://arxiv.org/pdf/2101.08213v3.pdf)
 > 2021-1月，消除OFDM带来的麻烦：采用端到端学习的无导频和无CP通信
 
++ [【Reduction of PAPR by Convolutional Neural Network with Soft Feed-back in an Underwater Acoustic OFDM Communication】](https://ieeexplore.ieee.org/document/9393026)
+> 2021-1月，水下声OFDM通信中带软反馈的卷积神经网络降低PAPR
+>  2021 International Bhurban Conference on Applied Sciences and Technologies (IBCAST)
++ [【Using Channel State Information for Physical Tamper Attack Detection in OFDM Systems: A Deep Learning Approach】](https://ieeexplore.ieee.org/document/9403404)
+> 2021-4月，使用信道状态信息进行OFDM系统中的物理篡改攻击检测：一种深度学习方法
+>  IEEE Wireless Communications Letters ( Early Access )
+
++ [【OFDM Receiver Using Deep Learning: Redundancy Issues】]()
+> 2021-1月，使用深度学习的OFDM接收器：冗余问题
+> 2020 28th European Signal Processing Conference (EUSIPCO)
+
++ [【Identification of OFDM-Based Radios Under Rayleigh Fading Using RF-DNA and Deep Learning】](https://ieeexplore.ieee.org/document/9330580)
+> 2021-1月，使用RF-DNA和深度学习在瑞利衰落下识别基于OFDM的无线电
+>  IEEE Access ( Volume: 9)
++ [【Channel Estimation based on Deep Learning in Vehicle-to-everything Environments】](https://ieeexplore.ieee.org/document/9355192)
+> 2021－２月，到所有环境中基于深度学习的渠道估计
+>  IEEE Communications Letters ( Early Access )
+
++ [【DeepRx: Fully Convolutional Deep Learning Receiver】](https://ieeexplore.ieee.org/document/9345504)
+> 2021-2月，DeepRx：完全卷积深度学习接收器
+>  IEEE Transactions on Wireless Communications ( Early Access )
+
 # 2020 年
 + [【Learning for Detection: MIMO-OFDM Symbol Detection Through Downlink Pilots】](https://ieeexplore.ieee.org/document/9020011)
 >2020 IEEE Transactions on Wireless Communications
