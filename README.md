@@ -34,7 +34,13 @@
 + [【DeepRx: Fully Convolutional Deep Learning Receiver】](https://ieeexplore.ieee.org/document/9345504)
 > 2021-2月，DeepRx：完全卷积深度学习接收器  
 >  IEEE Transactions on Wireless Communications ( Early Access )
++ [【RCNet: Incorporating Structural Information into Deep RNN for Online MIMO-OFDM Symbol Detection with Limited Training】](https://ieeexplore.ieee.org/document/9332284)
+> 2021-1月，RCNet：将结构信息整合到深度RNN中，以进行有限培训的在线MIMO-OFDM符号检测  
+>  IEEE Transactions on Wireless Communications ( Early Access )
 
++ [【Learning to Localize: A 3D CNN Approach to User Positioning in Massive MIMO-OFDM Systems】](https://ieeexplore.ieee.org/document/9364875)
+> 2021-2月，学习定位：大规模MIMO-OFDM系统中用户定位的3D CNN方法  
+>  IEEE Transactions on Wireless Communications ( Early Access )
 # 2020 年
 + [【Learning for Detection: MIMO-OFDM Symbol Detection Through Downlink Pilots】](https://ieeexplore.ieee.org/document/9020011)
 >2020 IEEE Transactions on Wireless Communications
