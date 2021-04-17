@@ -4,7 +4,7 @@
 + [【Intelligent Radio Signal Processing: A Survey】](https://deeplearn.org/arxiv/198162/intelligent-radio-signal-processing:-a-survey)
 >2021年面向深度学习的信号处理综述
 + [【Deep Joint Source Channel Coding for WirelessImage Transmission with OFDM】](https://arxiv.org/abs/2101.03909)
-> 2021-1月号发表
+> 2021-1月  
 > OFDM的无线图像传输的深层联合源信道编码
 + [【Deep Joint Source Channel Coding for WirelessImage Transmission with OFDM】](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/ipc-lab/Kurka_deepJSSC_ICASSP2019.pdf)
 >2021-1月，
@@ -14,25 +14,25 @@
 > 2021-1月，消除OFDM带来的麻烦：采用端到端学习的无导频和无CP通信
 
 + [【Reduction of PAPR by Convolutional Neural Network with Soft Feed-back in an Underwater Acoustic OFDM Communication】](https://ieeexplore.ieee.org/document/9393026)
-> 2021-1月，水下声OFDM通信中带软反馈的卷积神经网络降低PAPR
+> 2021-1月，水下声OFDM通信中带软反馈的卷积神经网络降低PAPR  
 >  2021 International Bhurban Conference on Applied Sciences and Technologies (IBCAST)
 + [【Using Channel State Information for Physical Tamper Attack Detection in OFDM Systems: A Deep Learning Approach】](https://ieeexplore.ieee.org/document/9403404)
-> 2021-4月，使用信道状态信息进行OFDM系统中的物理篡改攻击检测：一种深度学习方法
+> 2021-4月，使用信道状态信息进行OFDM系统中的物理篡改攻击检测：一种深度学习方法  
 >  IEEE Wireless Communications Letters ( Early Access )
 
 + [【OFDM Receiver Using Deep Learning: Redundancy Issues】]()
-> 2021-1月，使用深度学习的OFDM接收器：冗余问题
+> 2021-1月，使用深度学习的OFDM接收器：冗余问题  
 > 2020 28th European Signal Processing Conference (EUSIPCO)
 
 + [【Identification of OFDM-Based Radios Under Rayleigh Fading Using RF-DNA and Deep Learning】](https://ieeexplore.ieee.org/document/9330580)
-> 2021-1月，使用RF-DNA和深度学习在瑞利衰落下识别基于OFDM的无线电
+> 2021-1月，使用RF-DNA和深度学习在瑞利衰落下识别基于OFDM的无线电  
 >  IEEE Access ( Volume: 9)
 + [【Channel Estimation based on Deep Learning in Vehicle-to-everything Environments】](https://ieeexplore.ieee.org/document/9355192)
-> 2021－２月，到所有环境中基于深度学习的渠道估计
+> 2021－２月，到所有环境中基于深度学习的渠道估计  
 >  IEEE Communications Letters ( Early Access )
 
 + [【DeepRx: Fully Convolutional Deep Learning Receiver】](https://ieeexplore.ieee.org/document/9345504)
-> 2021-2月，DeepRx：完全卷积深度学习接收器
+> 2021-2月，DeepRx：完全卷积深度学习接收器  
 >  IEEE Transactions on Wireless Communications ( Early Access )
 
 # 2020 年
@@ -51,11 +51,11 @@
 >2020  IEEE Communications Letters
 
 + [【Model-Driven Channel Estimation for OFDM Systems Based on Image Super-Resolution Network】](https://ieeexplore.ieee.org/abstract/document/9339375)
->  2020 IEEE 5th International Conference on Signal and Image Processing
+>  2020 IEEE 5th International Conference on Signal and Image Processing  
 >  [阅读笔记](https://betterbench.blog.csdn.net/article/details/115219168)
 
 + [【Deep Learning for Joint Channel Estimation and Signal Detection in OFDM Systems】](https://arxiv.org/abs/2008.03977)
->2020-8月发表
+>2020-8月，
 >深度学习用于OFDM系统中的联合信道估计和信号检测
 + [【Pruning the Pilots: Deep Learning-Based Pilot Design and Channel Estimation for MIMO-OFDM Systems】](https://arxiv.org/pdf/2006.11796v3.pdf)
 > 2020-6月，减少导频：用于MIMO-OFDM系统的基于深度学习的导频设计和信道估计
