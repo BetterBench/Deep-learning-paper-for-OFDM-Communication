@@ -6,9 +6,9 @@
 >2021年面向深度学习的信号处理综述
 
 + [Model Aided Deep Learning Based MIMO OFDM Receiver With Nonlinear Power Amplifiers](https://arxiv.org/pdf/2105.14458.pdf)    
-+ 2021-5月    
-+ 有非线性功率放大器的基于模型辅助深度学习的 MIMO OFDM 接收器。接收器由传统的最小二乘 (LS) 信道估计和迫零 (ZF) 均衡模型辅助。  
-+ 2021 IEEE Wireless Communications and Networking Conference (WCNC)  
+> 2021-5月    
+> 有非线性功率放大器的基于模型辅助深度学习的 MIMO OFDM 接收器。接收器由传统的最小二乘 (LS) 信道估计和迫零 (ZF) 均衡模型辅助。  
+> 2021 IEEE Wireless Communications and Networking Conference (WCNC)  
 
 
 + [【Deep Joint Source Channel Coding for WirelessImage Transmission with OFDM】](https://arxiv.org/abs/2101.03909)
