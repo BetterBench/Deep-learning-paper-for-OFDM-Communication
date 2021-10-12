@@ -4,6 +4,13 @@
 # 2021 年
 + [【Intelligent Radio Signal Processing: A Survey】](https://deeplearn.org/arxiv/198162/intelligent-radio-signal-processing:-a-survey)
 >2021年面向深度学习的信号处理综述
+
++ [Model Aided Deep Learning Based MIMO OFDM Receiver With Nonlinear Power Amplifiers](https://arxiv.org/pdf/2105.14458.pdf)    
++ 2021-5月    
++ 有非线性功率放大器的基于模型辅助深度学习的 MIMO OFDM 接收器。接收器由传统的最小二乘 (LS) 信道估计和迫零 (ZF) 均衡模型辅助。  
++ 2021 IEEE Wireless Communications and Networking Conference (WCNC)  
+
+
 + [【Deep Joint Source Channel Coding for WirelessImage Transmission with OFDM】](https://arxiv.org/abs/2101.03909)
 > 2021-1月  
 > OFDM的无线图像传输的深层联合源信道编码
@@ -51,6 +58,8 @@
 > 2021-2月  
 > 学习定位：大规模MIMO-OFDM系统中用户定位的3D CNN方法  
 >  IEEE Transactions on Wireless Communications ( Early Access )
+
+
 # 2020 年
 + [【Learning for Detection: MIMO-OFDM Symbol Detection Through Downlink Pilots】](https://ieeexplore.ieee.org/document/9020011)
 >2020 IEEE Transactions on Wireless Communications
