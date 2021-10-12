@@ -1,6 +1,6 @@
 # 2019-2021最新应用深度学习到OFDM通信系统中的论文汇总(实时更新)
 # 赠人玫瑰，手有余香，可以顺便Star一下啦
-最新更新日期：2021-4-17
+最新更新日期：2021-10-12
 # 2021 年
 + [【Intelligent Radio Signal Processing: A Survey】](https://deeplearn.org/arxiv/198162/intelligent-radio-signal-processing:-a-survey)
 >2021年面向深度学习的信号处理综述
@@ -10,6 +10,10 @@
 > 有非线性功率放大器的基于模型辅助深度学习的 MIMO OFDM 接收器。接收器由传统的最小二乘 (LS) 信道估计和迫零 (ZF) 均衡模型辅助。  
 > 2021 IEEE Wireless Communications and Networking Conference (WCNC)  
 
++ [A Signal Detection Scheme Based on Deep Learning in OFDM Systems](https://arxiv.org/pdf/2107.13423.pdf)
+> 2021年7月
+> OFDM系统中基于深度学习的信号检测方案
+> 2021 Computer Science, Engineering, Mathematics
 
 + [【Deep Joint Source Channel Coding for WirelessImage Transmission with OFDM】](https://arxiv.org/abs/2101.03909)
 > 2021-1月  
@@ -64,7 +68,12 @@
 + [【Learning for Detection: MIMO-OFDM Symbol Detection Through Downlink Pilots】](https://ieeexplore.ieee.org/document/9020011)
 >2020 IEEE Transactions on Wireless Communications
 
-+ [【Pruning the Pilots: Deep Learning-Based Pilot Design and Channel Estimation for MIMO-OFDM Systems】](https://deeplearn.org/arxiv/200643/pruning-the-pilots:-deep-learning-based-pilot-design-and-channel-estimation-for-mimo-ofdm-systems)
+
++ [Pilot Pattern Design for Deep Learning-Based Channel Estimation in OFDM Systems](https://arxiv.org/pdf/2003.08980.pdf)  
+> 2020年5月  
+> OFDM 系统中基于深度学习的信道估计的导频模式设计
+
+[【Pruning the Pilots: Deep Learning-Based Pilot Design and Channel Estimation for MIMO-OFDM Systems】](https://deeplearn.org/arxiv/200643/pruning-the-pilots:-deep-learning-based-pilot-design-and-channel-estimation-for-mimo-ofdm-systems)
 >2020年
 + [【Learning to Demodulate from Few Pilots via Offline and Online Meta-Learning】 ](https://ieeexplore.ieee.org/document/9290055)
 > 2020 IEEE Transactions on Signal Processing
